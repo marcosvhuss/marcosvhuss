@@ -1,7 +1,8 @@
- <a href="https://github.com/marcosvhuss">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvhuss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvhuss&layout=compact&theme=dark"/>
-</a>
+ <div align="center">
+  <a href="https://github.com/marcosvhuss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvhuss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvhuss&layout=compact&langs_count=5&theme=github_dark&hide_border=true"/>
+</div>
 <div style='display:flex'><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
