@@ -4,7 +4,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvhuss&layout=compact&langs_count=5&theme=github_dark&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
-
 <!-- Forçar renderização limpa entre seções -->
 <div style="display: flex; gap: 10px;">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
@@ -13,14 +12,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 </div>
-
 <!-- Separação para evitar símbolos indesejados -->
 <br />
-
 <div>
   <h4>Como entrar em contato comigo?</h4>
 </div>
-
 <div>
   <a href="https://www.linkedin.com/in/marcos-huss-164a09127/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
