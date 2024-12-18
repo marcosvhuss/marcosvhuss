@@ -1,19 +1,21 @@
+<!-- Linha de separação limpa -->
 <div align="center" style="margin-bottom:100px;">
   <a href="https://github.com/marcosvhuss" style="display: flex;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvhuss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvhuss&layout=compact&langs_count=5&theme=github_dark&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
-<!-- Forçar renderização limpa entre seções -->
+<!-- Força o Markdown a ignorar linha em branco -->
+<!-- ============================ -->
 <div style="display: flex; gap: 10px;">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 </div>
-<!-- Separação para evitar símbolos indesejados -->
-<br />
+<!-- ============================ -->
 <div>
   <h4>Como entrar em contato comigo?</h4>
 </div>
